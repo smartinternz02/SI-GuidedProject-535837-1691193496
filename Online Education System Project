@@ -7,4 +7,5 @@ https://us3.ca.analytics.ibm.com/bi/?perspective=dashboard&pathRef=.my_folders%2
 Data Exploration
 https://us3.ca.analytics.ibm.com/bi/?perspective=explore&pathRef=.my_folders%2FNew%2Bexploration&subView=model0000018a44d52679_00000000
 Data Module
-https://us3.ca.analytics.ibm.com/bi/?perspective=ca-modeller&pathRef=.my_folders%2FNew%2Bdata%2Bmodule%2Bonline
+The column Home location and level of education has been changed to uppercase by clicking the column->clean->uppercase->ok
+https://us3.ca.analytics.ibm.com/bi/?perspective=ca-modeller&id=i8BEF5B3BB860458BB6165EF4A57B6FCA&objRef=i8BEF5B3BB860458BB6165EF4A57B6FCA&tid=1226112992_c67db790bf4143128f950fb9e9126dc9_sessionTemp
